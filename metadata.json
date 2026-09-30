@@ -1,0 +1,6 @@
+{
+  "name": "RecallBot - Conversational Memory Widget",
+  "description": "A modern admin-dashboard style chat widget featuring persistent customer profiles, short-term conversational context, and seamless memory recall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
